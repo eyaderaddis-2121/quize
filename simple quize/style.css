@@ -57,3 +57,6 @@ button:hover {
   background: #f44336 !important;
   color: white;
 }
+#nextBtn , #restartBtn{
+    color: #fff;
+}
